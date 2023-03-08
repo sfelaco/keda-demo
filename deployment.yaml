@@ -32,7 +32,7 @@ spec:
     spec:
       containers:
       - name: demo-keda
-        image: sfelaco/demo-keda-app
+        image: sfelaco/spring-actuator-app
         imagePullPolicy: Always
         resources:
           limits:
