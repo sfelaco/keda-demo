@@ -4,7 +4,7 @@
 
 ![alt diagram](diagram.png)
 
-This article explains how manage the autoscaling using metrics fetched from Kubernetes: https://medium.com/@santolo.felaco/keda-autoscaling-kubernetes-apps-using-prometheus-da037fe572cf
+This article explains how manage the autoscaling using metrics fetched from Kubernetes through KEDA: https://medium.com/@santolo.felaco/keda-autoscaling-kubernetes-apps-using-prometheus-da037fe572cf
 
 To install the enviroment execute the following steps:
 
